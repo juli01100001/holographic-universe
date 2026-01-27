@@ -1,1 +1,2 @@
+dont forget to debug and understand why model isnt running 
 read michael talbot chapter about the model again and adapt code to make it more true to the perspective of the holographic universe 
